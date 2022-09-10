@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+
+</defs>
+<symbol id="i-arrow-left" viewBox="0 0 13 10" fill="none"><path d="M5 9L1 5l4-4M1 5h10.33" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+<symbol id="i-arrow-right" viewBox="0 0 13 10" fill="none"><path d="M7.5 1l4 4-4 4M11.5 5H1.17" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+<symbol id="i-reset" viewBox="0 0 314.154 314.154" fill="#fff"><path d="M307.475 141.686c-6.893-4.598-16.207-2.736-20.802 4.157l-.446.669c-5.426-74.107-67.45-132.745-142.918-132.745C64.288 13.768 0 78.056 0 157.077s64.288 143.309 143.309 143.309c11.046 0 20-8.954 20-20s-8.954-20-20-20C86.344 260.385 40 214.041 40 157.077S86.344 53.768 143.309 53.768c52.798 0 96.465 39.815 102.571 90.996-4.813-5.991-13.486-7.422-20-3.078-6.893 4.596-8.754 13.91-4.158 20.802l29.702 44.541c3.505 5.256 9.208 8.394 15.255 8.394 6.047 0 11.749-3.139 15.252-8.394l29.702-44.541c4.595-6.893 2.734-16.206-4.158-20.802z"/></symbol>
+<symbol id="i-upload" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M9.91 4v7h-2V4h-3l4-4 4 4h-3z" fill="#fff"/><path d="M15.91 16h-14a1 1 0 01-.992-1.124l1-8A1 1 0 012.91 6h3v2H3.794l-.75 6h11.734l-.75-6H11.91V6h3a1 1 0 01.992.876l1 8A.998.998 0 0115.91 16z" fill="#fff"/></symbol>
+</svg>
