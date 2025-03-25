@@ -1265,9 +1265,9 @@ footer .s-container {
     font-size: 74px;
   }
   .nav-menu,
-footer .s-container,
-header,
-.s-container {
+  footer .s-container,
+  header,
+  .s-container {
     padding-left: 70px;
     padding-right: 70px;
   }
@@ -1283,9 +1283,9 @@ header,
 }
 @media (max-width: 991px) {
   .nav-menu,
-footer .s-container,
-header,
-.s-container {
+  footer .s-container,
+  header,
+  .s-container {
     padding-left: 40px;
     padding-right: 40px;
   }
@@ -1352,9 +1352,6 @@ header,
     padding-top: 25px;
     margin-top: 25px;
   }
-  .nav-list li strong {
-    min-width: 75px;
-  }
   .portfolio-info p {
     margin-top: 10px;
     max-width: 100%;
@@ -1370,9 +1367,9 @@ header,
 }
 @media (max-width: 575px) {
   .nav-menu,
-footer .s-container,
-header,
-.s-container {
+  footer .s-container,
+  header,
+  .s-container {
     padding-left: 25px;
     padding-right: 25px;
   }
@@ -1395,7 +1392,7 @@ header,
             align-items: flex-start;
   }
   .portfolio-wrap,
-.portfolio-info {
+  .portfolio-info {
     -webkit-box-flex: 0;
         -ms-flex: 0 0 100%;
             flex: 0 0 100%;
@@ -1430,9 +1427,9 @@ header,
     margin-top: 20px;
   }
   .nav-menu,
-footer .s-container,
-header,
-.s-container {
+  footer .s-container,
+  header,
+  .s-container {
     padding-left: 15px;
     padding-right: 15px;
   }

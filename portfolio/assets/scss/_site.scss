@@ -175,7 +175,10 @@
 		margin-top: 30px;
 		transform: translateX(100px);
 		opacity: 0;
-		transition: transform 0.5s ease-out 0.4s, opacity 0.5s ease-out 0.4s, color 0.4s ease-out;
+		transition:
+			transform 0.5s ease-out 0.4s,
+			opacity 0.5s ease-out 0.4s,
+			color 0.4s ease-out;
 		pointer-events: none;
 	}
 }
@@ -463,9 +466,6 @@
 	.nav-list {
 		padding-top: 25px;
 		margin-top: 25px;
-		li strong {
-			min-width: 75px;
-		}
 	}
 	.portfolio-info p {
 		margin-top: 10px;
