@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="750.642" height="466.802" viewBox="0 0 750.642 466.802">
+  <g id="geometric_bg" data-name="geometric bg" transform="translate(0 -0.501)">
+    <g id="Group_15" transform="translate(0 0.501)" opacity="0.476">
+      <path id="Fill_1" d="M.018.018,0,14.92l14.9.017L14.908,0Z" transform="translate(720.817 67.193)" fill="#dd1b73"/>
+      <path id="Fill_2" d="M14.918,0V14.929L.018,14.92,0,29.858H29.844V0Z" transform="translate(720.799 82.13)" fill="#dd1b73"/>
+      <path id="Fill_3" d="M31.664,0,21.117,10.574,10.572,21.121,0,31.677,10.554,42.241,21.135,31.658,31.664,21.121,42.216,10.574Z" transform="translate(696.074 345.682)" fill="#f4c22d"/>
+      <path id="Fill_4" d="M31.671,31.713,42.233,21.161,31.671,10.575,21.117,0,10.554,10.574,0,21.134l10.554,10.56L21.117,21.143Z" transform="translate(368.759 50.522)" fill="#344e9f"/>
+      <path id="Fill_5" d="M21.117,10.569,10.554,0,0,10.56,10.554,21.13,21.117,31.7,31.671,21.138,42.233,10.56,31.671.018Z" transform="translate(368.759 82.216)" fill="#344e9f"/>
+      <path id="Fill_6" d="M29.878,29.862H14.944V.018L.009,0V14.937L0,29.884V44.821l14.935-.009,14.953-.01Z" transform="translate(184.96 378.572)" fill="#dd1b73"/>
+      <path id="Fill_7" d="M0,0V39.15H14.92V0Z" transform="translate(627.134 394.066)" fill="#d7d7eb"/>
+      <path id="Fill_8" d="M22.313,0l22.4.009L44.7,14.939H.007L0,0Z" transform="translate(14.928 443.497)" fill="#f4c22d"/>
+      <path id="Fill_9" d="M29.852,0H14.908l.009,14.92H0V29.857H14.926l.005-14.938H44.76L44.769,0Z" transform="translate(0 413.641)" fill="#f4c22d"/>
+      <path id="Fill_10" d="M42.234,10.561,31.689.01,21.126,10.57,10.564,0,0,10.561,10.572,21.127,21.126,31.669,31.68,21.121h0L42.234,31.672,52.787,21.121l.009.008L63.323,31.671,73.895,21.1l10.565-10.56L73.914.01,63.36,10.57,52.787,0Z" transform="translate(404.488 435.13)" fill="#344e9f"/>
+      <path id="Fill_11" d="M0,0V14.956H14.918v14.92H29.871V0Z" transform="translate(58.952 14.92)" fill="#d7d7eb"/>
+      <path id="Fill_12" d="M0,14.92H14.917V0H0Z" transform="translate(88.822 0)" fill="#d7d7eb"/>
+      <path id="Fill_13" d="M23.994,11.988A12,12,0,1,1,12,0,12,12,0,0,1,23.994,11.988" transform="translate(502.88 101.925)" fill="#dd1b73"/>
+    </g>
+  </g>
+</svg>

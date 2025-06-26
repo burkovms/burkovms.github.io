@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="735.259" height="872.782" viewBox="0 0 735.259 872.782">
+  <g id="Group_42" data-name="Group 42" transform="translate(-1079.741 -81.815)">
+    <path id="Fill_6" data-name="Fill 6" d="M17.794,36.036V.012L0,0V54.055l17.794.023H35.6V36.036Z" transform="translate(1353.315 155.402) rotate(90)" fill="#ffd860"/>
+    <path id="Fill_2" data-name="Fill 2" d="M18.682,0,18.7,18.712.006,18.69,0,37.41l18.71.014h.044l18.678.014-.014-18.712v-.008L37.4.014Z" transform="translate(1507.325 765.128) rotate(-45)" fill="#dd1d73"/>
+    <path id="Fill_4" data-name="Fill 4" d="M27.051,13.535,13.54,27.041,0,40.556,13.52,54.078,27.072,40.531l13.487-13.49,13.52-13.506L40.559,0Z" transform="translate(1080.426 660.312)" fill="#ffd860"/>
+    <path id="Fill_13" data-name="Fill 13" d="M17.316,53.293,0,53.394.091,35.648.179,17.894l17.308-.076.018,0,0,0L17.59.09,34.911,0l-.1,17.735.029,0-.08,17.735L17.4,35.561Z" transform="translate(1180.368 901.203)" fill="#121590"/>
+    <path id="Fill_18" data-name="Fill 18" d="M13.344,26.7,0,13.354,13.365,0,26.7,13.334Z" transform="translate(1639.074 258.329)" fill="#e3ebff"/>
+    <path id="Fill_3" data-name="Fill 3" d="M18.5.012V56.486L0,56.474V75.3l18.5-.008V75.3l18.469-.012V0Z" transform="translate(1739.701 118.78) rotate(-90)" fill="#dd1d73"/>
+    <g id="Group_7" data-name="Group 7" transform="translate(1105.838 372.956)">
+      <path id="Fill_14" data-name="Fill 14" d="M19.069,0H0V19.1H19.069V38.15H38.182V0Z" transform="translate(0 18.845)" fill="#e3ebff"/>
+      <path id="Fill_15" data-name="Fill 15" d="M0,18.845H18.861V0H0Z" transform="translate(38.182 0)" fill="#e3ebff"/>
+    </g>
+    <path id="Fill_7" data-name="Fill 7" d="M35.584,36.03H17.8V.019L.011,0V18.021L0,36.057V54.078l17.788-.008L35.6,54.059Z" transform="translate(1778.72 377.069)" fill="#121590"/>
+    <path id="Fill_7-2" data-name="Fill 7" d="M35.584,36.03H17.8V.019L.011,0V18.021L0,36.057V54.078l17.788-.008L35.6,54.059Z" transform="translate(1778.377 918.659) rotate(90)" fill="#ffd860"/>
+    <ellipse id="Oval" cx="10.268" cy="9.926" rx="10.268" ry="9.926" transform="translate(1079.741 98.928)" fill="#dd1d73"/>
+    <g id="Group_31" data-name="Group 31" transform="translate(1340.72 507.767)">
+      <path id="Combined_Shape" data-name="Combined Shape" d="M66.2,26.435l-.031-.031-.134-.135-.136.137-.006.006-13.121,13.2-13.1-13.178-.031-.031-.134-.135-.136.137-.006.006-13.121,13.2-13.1-13.178L13.12,26.4,0,13.2,13.141.01,26.241,13.2,39.363,0l.156.158L39.666.01,52.767,13.2,65.888,0l.157.158L66.192.01,79.293,13.2,92.414,0l13.128,13.209-13.116,13.2-.006.006L79.3,39.613Z" transform="translate(0 0)" fill="#121590"/>
+    </g>
+    <path id="Combined_Shape-2" data-name="Combined Shape" d="M.248,18.6H0V0L18.919.007V18.371h.249V36.958L.25,36.965Z" transform="translate(1758.868 654.89)" fill="#e3ebff"/>
+  </g>
+</svg>

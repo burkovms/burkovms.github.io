@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="21.818" viewBox="0 0 22 21.818">
+  <g id="brandico-facebook-rect" transform="translate(0 -0.587)">
+    <g id="Icon" transform="translate(0 0.587)">
+      <path id="Icon_Path" data-name="Icon Path" d="M4.017,0A3.992,3.992,0,0,0,0,3.984V17.835a3.992,3.992,0,0,0,4.017,3.984h7.569v-8.53H9.312V10.218h2.274V7.594c0-2.061,1.344-3.954,4.439-3.954a18.93,18.93,0,0,1,2.18.119l-.073,2.868s-.945-.009-1.977-.009c-1.116,0-1.3.51-1.3,1.357v2.243h3.361l-.146,3.071H14.861v8.53h3.122A3.992,3.992,0,0,0,22,17.835V3.984A3.992,3.992,0,0,0,17.983,0H4.017Z" fill="#464646"/>
+    </g>
+    <rect id="ViewBox" width="22" height="21.818" transform="translate(0 0.587)" fill="rgba(0,0,0,0)"/>
+  </g>
+</svg>

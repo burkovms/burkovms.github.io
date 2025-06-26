@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="55" height="47.754" viewBox="0 0 55 47.754">
+  <g id="ios_PIXO" data-name="ios PIXO" transform="translate(0 -0.996)">
+    <g id="Layer_2-2">
+      <g id="Group_10_Copy_4">
+        <g id="Group_3" transform="translate(0 33)">
+          <path id="Clip_2-2" d="M0,0H55V8H0Z" transform="translate(0 0.23)" fill="none"/>
+          <g id="Group_3-2">
+            <path id="Fill_1" d="M50.76,8H4A4,4,0,0,1,4,0H50.76a4,4,0,0,1,0,8" transform="translate(0.12 0.26)" fill="#2238bc"/>
+          </g>
+        </g>
+        <g id="Group_6" transform="translate(5)">
+          <path id="Clip_5-2" d="M0,0H31.62V47.75H0Z" transform="translate(0.49 1)" fill="none"/>
+          <g id="Group_6-2">
+            <path id="Fill_4" d="M31.057,6.075,7.687,45.735a4.17,4.17,0,0,1-5.64,1.47A4,4,0,0,1,.5,41.785a.41.41,0,0,0,0-.09L23.907,2a4.17,4.17,0,0,1,5.64-1.45A4,4,0,0,1,31.1,6v.09" transform="translate(0.503 0.995)" fill="#2238bc"/>
+          </g>
+        </g>
+        <g id="Group_9" transform="translate(17 1)">
+          <path id="Clip_8-2" d="M0,0H31.62V47.75H0Z" transform="translate(0.89)" fill="none"/>
+          <g id="Group_9-2">
+            <path id="Fill_7" d="M.545,6.053l23.37,39.66a4.16,4.16,0,0,0,5.63,1.47,4,4,0,0,0,1.56-5.42v-.09L7.695,1.983A4.17,4.17,0,0,0,2.1.533a4,4,0,0,0-1.61,5.45l.05.09" transform="translate(0.895 0.017)" fill="#f362aa"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

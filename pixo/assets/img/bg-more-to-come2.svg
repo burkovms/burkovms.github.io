@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1704" height="499.613" viewBox="0 0 1704 499.613">
+  <g id="geometric_bggrid_copy_2" data-name="geometric bggrid copy 2" transform="translate(0 -0.387)" opacity="0.873">
+    <path id="Path" d="M0,28.95V101H37V0H0Z" transform="translate(0 160) rotate(-90)" fill="#d7d7eb" opacity="0.502"/>
+    <g id="Group-2" data-name="Group" transform="translate(600 392)" opacity="0.5">
+      <path id="Path-4" data-name="Path" d="M27.961,55.987,55.948,56l.026-28.007L56,0,27.987.013,0,.026V27.993l27.987.013-.026,27.98Z" transform="translate(28 0.387)" fill="#d7d7eb"/>
+      <path id="Path-5" data-name="Path" d="M28,28.007,28.013,0H.026L0,27.993V56l27.987-.013L56,55.974l-.026-27.967Z" transform="translate(0 28.387)" fill="#d7d7eb"/>
+    </g>
+    <g id="Group-3" data-name="Group" transform="translate(1555)" opacity="0.481">
+      <path id="Path-8" data-name="Path" d="M0,0V28.54H28.46V57H57V0H0Z" transform="translate(0 27.387)" fill="#ffc36a"/>
+      <rect id="Rectangle" width="28" height="28" transform="translate(57 0.387)" fill="#ffc36a"/>
+    </g>
+  </g>
+</svg>
