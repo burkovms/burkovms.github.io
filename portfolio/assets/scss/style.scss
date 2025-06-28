@@ -1,20 +1,74 @@
-/*------------------------- STRUCTURE -------------------------*/
-@import "structure";
+/*--------------------------------------
+FONTS
+--------------------------------------*/
+@font-face {
+  font-family: "Circular Std";
+  src:
+    url("../fonts/circularstd-book.woff2") format("woff2"),
+    url("../fonts/circularstd-book.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
 
-/*------------------------- NORMALIZE -------------------------*/
-@import "normalize";
+@font-face {
+  font-family: "Circular Std";
+  src:
+    url("../fonts/circularstd-bold.woff2") format("woff2"),
+    url("../fonts/circularstd-bold.woff") format("woff");
+  font-weight: 700;
+  font-style: normal;
+}
 
-/*--------------------------- TYPOGRAPHY ---------------------------*/
-@import "typography";
+@font-face {
+  font-family: "Circular Std";
+  src:
+    url("../fonts/circularstd-medium.woff2") format("woff2"),
+    url("../fonts/circularstd-medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+}
 
-/*-------------------------- HEADER --------------------------*/
-@import "header";
+/*--------------------------------------
+Variables 
+--------------------------------------*/
+@import "variables";
 
-/*--------------------------- FORMS ---------------------------*/
-@import "forms";
+/*--------------------------------------
+NORMALIZE
+--------------------------------------*/
+@import "default/normalize";
 
-/*-------------------------- FOOTER --------------------------*/
-@import "footer";
+/*--------------------------------------
+TYPOGRAPHY
+--------------------------------------*/
+@import "default/typography";
 
-/*--------------------------- SITE ---------------------------*/
-@import "site";
+/*--------------------------------------
+PRELOADER
+--------------------------------------*/
+@import "components/preloader";
+
+/*--------------------------------------
+CUSTOM STYLE
+--------------------------------------*/
+@import "default/main";
+
+/*--------------------------------------
+UI
+--------------------------------------*/
+@import "ui/ui";
+
+/*--------------------------------------
+HEADER
+--------------------------------------*/
+@import "header/header";
+
+/*--------------------------------------
+FOOTER
+--------------------------------------*/
+@import "footer/footer";
+
+/*--------------------------------------
+COMPONENTS
+--------------------------------------*/
+@import "components/components";
