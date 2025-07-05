@@ -51,11 +51,6 @@
   /* ---------------------------------------------
   CLICK OUTSIDE
   --------------------------------------------- */
-  $('.nav-list li a').on('click', function () {
-    $('.nav-menu, .burger').removeClass('active');
-    $('body').removeClass('no-scroll');
-  });
-
   $(document).on('click', function (e) {
     let currentSelect = $('.nav-menu');
     let closeBtn = $('.burger');
